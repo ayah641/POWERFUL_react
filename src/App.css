@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.content-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 12%; /* ممكن تعدلي هذه القيم حسب الحاجة */
+}
